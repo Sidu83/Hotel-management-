@@ -17,7 +17,7 @@ styling issues fixed
 
 # Use Procedure
 
-please chanage the port number with your port number - I used 3307 as port number but for your case it may be 3306 please change that
+please change the port number with your port number - I used 3307 as port number but for your case it may be 3306 please change that
 
 please change username and password if that applicable to you
 
